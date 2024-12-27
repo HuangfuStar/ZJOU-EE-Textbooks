@@ -2,7 +2,7 @@
 
 # 电子信息工程专业教材共享仓库
 
-![](https://img.shields.io/badge/Author-Starry%20Pinncle-bule)    ![](https://img.shields.io/badge/LICENSE-GNU3%20Pinncle-red)
+![](https://img.shields.io/badge/Author-Starry%20Pinncle-bule)    ![](https://img.shields.io/badge/LICENSE-GNU3-red)
 
 ## 项目简介  
 
